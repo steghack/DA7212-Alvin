@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently seeking work & life ballance.
+- 🔭 I’m currently seeking work & life balance.
 - 🌱 I’m currently learning Terratest.
 - 👯 I’m looking to collaborate on IT with everyone.
 - 🤔 I’m looking for help with finding my next position.
 - 💬 Ask me about Git.
-- 📫 How to reach me: stefanorafe@gmail.com
+- 📫 How to reach me: a.gumapac77@gmail.com
 - 😄 Pronouns: We only...
 - ⚡ Fun fact:
 
